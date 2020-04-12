@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/CardController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/CouponController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/EmailController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/ImageRPController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/IndexController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/LoginController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/controller/UserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/yxq/carpark/utils/Msg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/pic/alipay.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/pic/micromsg.png" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
